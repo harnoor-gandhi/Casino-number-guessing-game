@@ -6,6 +6,14 @@ using namespace std;
 void rules();
 int main()
 {
+    cout<<"\n===============================================================================================";
+    cout<<"\n   CCCCC      A        SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO     ";
+    cout<<"\n CC          A  A      SS             III     NN N   NN   OO      OO    ";
+    cout<<"\nCC          A    A     SSSSSSSSS      III     NN  N  NN   OO      OO    ";
+    cout<<"\n CC        AAAAAAAA           SS      III     NN   N NN   OO      OO    ";
+    cout<<"\n   CCCCC  A        A   SSSSSSSSS   IIIIIIIII  NN     NN    OOOOOOOO     ";
+    cout<<"\n===============================================================================================\n";
+    
     string playerName;
     int balance; // stores player's balance
     int bettingAmount;
